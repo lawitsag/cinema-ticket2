@@ -46,6 +46,10 @@ Provide a working implementation of a `TicketService` that:
 1.Clone the repository:`git clone https://github.com/lawitsag/cinema-tickets-javascript.git`
 2. Navigate to the project directory: `cd cinema-tickets-javascript`
 3. Install dependencies: `npm install`
+4. Install Babel and the Babel preset for Jest:npm install --save-dev babel-jest @babel/core @babel/preset-env
+5. Create a .babelrc file in your project root and add the following configuration:{
+  "presets": ["@babel/preset-env"]
+}
 
 ## Usage
 
