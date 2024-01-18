@@ -51,9 +51,7 @@ Provide a working implementation of a `TicketService` that:
   "presets": ["@babel/preset-env"]
 }
 
-## Usage
 
-To run the project, use the following command: `npm start`
 
 ## Testing
 
